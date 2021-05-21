@@ -1,0 +1,22 @@
+body{
+    background-color:paleturquoise;
+    text-align:center ;
+    padding: 20px;
+}
+
+h1{
+    color: darkorange;
+    padding: 10px;
+    font-size: 50px;
+}
+
+h2{
+    color: darkorange;
+    padding: 10px;
+}
+
+p{
+    color: red;
+    padding: 10px;
+    font-size: 20px;
+}
